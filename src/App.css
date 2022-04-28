@@ -6,7 +6,8 @@
   width:80rem;
   border:1px solid black;
   min-height:50rem;
-  background-color:palevioletred;
+  /* background-color:palevioletred; */
+  background-image: radial-gradient(circle, #d985b5, #d979b3, #d96cb1, #d85eb0, #d64faf, #c860cc, #b272e6, #9383fc, #28acff, #00ccff, #00e6ff, #5ffbf1);
   border: radius 1rem; 
 }
 
